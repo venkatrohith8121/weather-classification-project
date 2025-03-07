@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output
+/build/
+/dist/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+
+# React Native Debug files
+*.hprof
+
+# iOS build files
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
