@@ -1,34 +1,24 @@
-# # Node modules
-# node_modules/
+# Node modules
+node_modules/
 
-# # Build output
-# /build/
-# /dist/
+# Build output
+/build/
+/dist/
 
-# # macOS system files
-# .DS_Store
+# macOS system files
+.DS_Store
 
-# # Log files
-# *.log
+# Log files
+*.log
 
-# # Android Studio
-# .idea/
-# *.iml
+# Android Studio
+.idea/
+*.iml
 
-# # React Native Debug files
-# *.hprof
+# React Native Debug files
+*.hprof
 
-# # iOS build files
-# *.xcworkspace
-# *.xcodeproj
-# *.xcuserstate
-
-# Ignore everything
-*
-
-# Don't ignore .gitignore itself (optional but useful)
-!.gitignore
-
-# Except mainn.py
-!MainProject.ipynb
-!README.md
+# iOS build files
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
